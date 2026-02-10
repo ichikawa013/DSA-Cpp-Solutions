@@ -149,5 +149,5 @@ int main()
     cout << "num:" << numberNodes;
     int posIndex = sol.searchVal(head);
     cout << "pos: " << posIndex;
-    return 0;
+    return 1;
 }
